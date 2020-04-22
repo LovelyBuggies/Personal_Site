@@ -1,2 +1,2 @@
 # Chrome-extension-test
-A chrome extension playground
+A chrome extension playground.
