@@ -1,14 +1,14 @@
 baseurl = "/"
-title = "Mainroad"
+title = "Nino Lau"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
-disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
+disqusShortname = "ninolau" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+  name = "Nino Lau"
+  bio = "Whose Name was writ in Water"
   avatar = "img/avatar.png"
 
 [Params]
@@ -44,21 +44,13 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.widgets.social]
   # Enable parts of social widget
-  facebook = "username"
-  twitter = "username"
-  instagram = "username"
-  linkedin = "username"
-  telegram = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  email = "example@example.com"
+  github = "LovelyBuggies"
+  email = "ninomyemail@gmail.com"
+  facebook = "liu.shuo.1276"
+  twitter = "NinoLeo3"
+  instagram = "__ninolau__"
 
 # Custom social links
 [[Params.widgets.social.custom]]
   title = "youtube"
   url = "https://youtube.com/user/username"
-
-[[Params.widgets.social.custom]]
-  title = "My Home Page"
-  url = "http://example.com"
