@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Matt&#39;s Home</title>
+    <link>/notes/</link>
+    <description>Recent content in Notes on Matt&#39;s Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2019 15:42:31 +0800</lastBuildDate>
+    
+	<atom:link href="/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A solution for downloading CORS images</title>
+      <link>/notes/js/download-cors-image/</link>
+      <pubDate>Wed, 24 Jul 2019 15:42:31 +0800</pubDate>
+      
+      <guid>/notes/js/download-cors-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manjaro 踩坑记</title>
+      <link>/notes/linux/manjaro-tricks/</link>
+      <pubDate>Sun, 07 Jul 2019 15:42:31 +0800</pubDate>
+      
+      <guid>/notes/linux/manjaro-tricks/</guid>
+      <description>Get your hands dirty 当用腻了 Ubuntu、CentOS，想换 Arch 系尝鲜时，却被坑了（真香警告）。果然 并不是 所有的 Linux</description>
+    </item>
+    
+    <item>
+      <title>Music Theory Basic</title>
+      <link>/notes/music/music-theory-basic/</link>
+      <pubDate>Mon, 20 May 2019 11:57:36 +0800</pubDate>
+      
+      <guid>/notes/music/music-theory-basic/</guid>
+      <description>音程 音程 半音数 0 1 2 3 4 5 6 7 8 9 10 11 12 音程 纯一度 小二度 大二度 小三度 大三度 纯四度 增四/减五 纯五度 小六</description>
+    </item>
+    
+  </channel>
+</rss>
